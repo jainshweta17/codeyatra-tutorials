@@ -1,0 +1,7 @@
+com\codeyatra\springbatch\listener\JobCompletionNotificationListener.class
+com\codeyatra\springbatch\processor\ProductProcessor.class
+com\codeyatra\springbatch\SpringBatchSampleApplication.class
+com\codeyatra\springbatch\listener\StepCompletionNotificationListener.class
+com\codeyatra\springbatch\dto\Product.class
+com\codeyatra\springbatch\reader\ProductReader.class
+com\codeyatra\springbatch\BatchConfig.class
