@@ -1,3 +1,4 @@
+
 #### Eclipse ####
 .metadata
 **/bin/
@@ -10,12 +11,22 @@
 **/.settings/
 **/.loadpath
 **/.recommenders
+*/bin/*
+*.class
  
 # Eclipse Core
 **/.project
  
 # External tool builders
 **/.externalToolBuilders/
+
+# Package Files #
+*.war
+*.ear
+
+# Maven
+log/
+target/
  
 # Locally stored "Eclipse launch configurations"
 **/*.launch
@@ -28,4 +39,5 @@
  
 # STS (Spring Tool Suite)
 **/.springBeans
- 
+*/src/main/resources/application.properties
+
